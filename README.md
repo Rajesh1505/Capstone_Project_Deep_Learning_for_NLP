@@ -23,3 +23,11 @@ By engaging in this project, we will not only learn to fine-tune pre-trained mod
 This project serves as a foundation for the Industry Immersion module, where students will extend their work into a comprehensive research paper, delving deeper into the chosen industry's specific applications and implications of LLM technology. This holistic approach ensures that students are well-prepared to tackle real-world challenges using cutting-edge AI technologies.
 
 
+---
+
+
+## Project Goal
+
+The primary goal of this capstone project is to develop an industry-specific Large Language Model (LLM) Bot using pre-trained models from platforms such as Hugging Face. Students will be tasked with selecting one industry from a provided list, gathering relevant data, fine-tuning a pre-trained LLM, and demonstrating the bot's capability to engage users effectively by providing accurate and contextually appropriate responses.
+
+
