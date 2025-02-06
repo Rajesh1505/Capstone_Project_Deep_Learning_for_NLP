@@ -23,6 +23,11 @@ By engaging in this project, we will not only learn to fine-tune pre-trained mod
 This project serves as a foundation for the Industry Immersion module, where students will extend their work into a comprehensive research paper, delving deeper into the chosen industry's specific applications and implications of LLM technology. This holistic approach ensures that students are well-prepared to tackle real-world challenges using cutting-edge AI technologies.
 
 
+---
+
+# Conclusion:
+
+
 
 
 ## Project Goal
