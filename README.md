@@ -23,15 +23,17 @@ By engaging in this project, we will not only learn to fine-tune pre-trained mod
 This project serves as a foundation for the Industry Immersion module, where students will extend their work into a comprehensive research paper, delving deeper into the chosen industry's specific applications and implications of LLM technology. This holistic approach ensures that students are well-prepared to tackle real-world challenges using cutting-edge AI technologies.
 
 
----
-
-# Conclusion:
-
-
-
-
 ## Project Goal
 
 The primary goal of this capstone project is to develop an industry-specific Large Language Model (LLM) Bot using pre-trained models from platforms such as Hugging Face. Students will be tasked with selecting one industry from a provided list, gathering relevant data, fine-tuning a pre-trained LLM, and demonstrating the bot's capability to engage users effectively by providing accurate and contextually appropriate responses.
 
 
+---
+
+# Conclusion:
+
+This project successfully fine-tuned Llama-2-7B on a finance-specific dataset with minimal GPU memory requirements by leveraging LoRA and quantization techniques. The resulting model is optimized for financial question-answering and instruction-following tasks, making it valuable for financial analysts, chatbot applications, and automated reporting tools. By utilizing advanced training strategies and efficient parameter optimization, we demonstrated how large language models can be adapted to domain-specific needs without requiring extensive computational resources.
+
+Additionally, the model’s placement on Hugging Face Hub ensures that researchers and developers can continue experimenting with and improving its capabilities. This opens up possibilities for financial institutions, fintech startups, and AI-driven research teams to harness the power of Llama-2 for financial automation, knowledge extraction, and decision support systems.
+
+By leveraging efficient training techniques and resource optimization, I have demonstrated how to fine-tune Llama-2-7B on limited resources while maintaining strong performance.
